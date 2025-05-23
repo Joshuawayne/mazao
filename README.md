@@ -50,13 +50,13 @@ We're tilling this digital land with some top-notch tools:
 *   **React Router DOM v7 (`HashRouter`):** For smooth client-side navigation.
 *   **@google/genai:** The magic behind our intelligent AgriBot assistant.
 *   **Context API:** For managing global state like user info and language preferences.
-*   *(It's assumed a tool like **Vite** is used for the development environment to handle TypeScript compilation, JSX, and provide a speedy dev server.)*
+*   *( **Vite** is used for the development environment to handle TypeScript compilation, JSX, and provide a speedy dev server.)*
 
 ---
 
 ## 🚧 Backend Status: Planting the Seeds! 🚧
 
-Hold your hoes, folks! The powerful **backend** for AgriGrow Kenya is currently **UNDER ACTIVE DEVELOPMENT!** 🌱⚙️
+Hold your hoes, folks! Our **backend** for AgriGrow Kenya is currently **UNDER ACTIVE DEVELOPMENT!** 🌱⚙️
 
 Our brilliant backend team is hard at work cultivating a robust system using:
 *   **Node.js**
